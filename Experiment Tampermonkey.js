@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Experiments.js
-// @namespace    https://github.com/eduardo12013
+// @namespace    https://github.com/eduardo12013/discord-experiments
 // @version      1.0
 // @description  Enable Experiments mode on Discord
 // @author       mace#6441
